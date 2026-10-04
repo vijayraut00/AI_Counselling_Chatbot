@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "resume",
+    "question": "How can I improve my resume?",
+    "answer": "Make your resume one page, role-focused and evidence-based. Put a clear headline (for example: BTech student | AI & Python), then skills, 2-3 strongest projects with problem-action-result bullets, internships, education and links (GitHub, LinkedIn, portfolio). Remove fluff like long objectives, unused skills and weak adjectives. Quantify impact where possible (accuracy, users, speed, marks). Tailor keywords to each job description and keep formatting clean ATS-friendly (no tables/heavy graphics)."
+  },
+  {
+    "topic": "resume_sections",
+    "question": "What sections should a student resume include?",
+    "answer": "Use this order: Header with contact + links, Education, Skills, Projects, Experience/Internships, Achievements, Certifications. If you have strong internships, place Experience above Projects. Keep each bullet to one line and start with action verbs (Built, Designed, Improved, Automated)."
+  },
+  {
+    "topic": "career",
+    "question": "How do I choose a career?",
+    "answer": "Compare interests, strengths, preferred work style and market demand. Shortlist 2 roles, then test each for one week with a mini-project or course module. Track energy, skill fit and outcomes. Choose the path with better evidence, not only social pressure. Review the decision with a mentor every semester."
+  },
+  {
+    "topic": "job_search",
+    "question": "How do I get a job after college?",
+    "answer": "Run three tracks together: skills, proof and applications. Build 1-2 portfolio projects, keep a sharp resume/LinkedIn, and apply daily through placement cell, LinkedIn, Naukri, Internshala and referrals. Practice aptitude/DSA/core subjects and mock interviews weekly. Follow up on applications and improve weak feedback points fast."
+  },
+  {
+    "topic": "ai",
+    "question": "How should I prepare for an AI internship?",
+    "answer": "Learn Python, SQL, statistics, ML basics, then one end-to-end project (data -> model -> evaluation -> demo). Add Git, APIs and simple deployment. Be ready to explain dataset, metrics, overfitting, limitations and your exact contribution. Apply with a clear GitHub README and short project demo video."
+  },
+  {
+    "topic": "interview",
+    "question": "How should I prepare for an interview?",
+    "answer": "Prepare fundamentals, project storytelling and communication. For each project explain problem, your role, tech choices, architecture, challenges, testing, results and limitations. Practice common HR questions, 2-3 mock interviews, and short confident answers (STAR format). Sleep well before the interview and prepare 2 smart questions for the interviewer."
+  },
+  {
+    "topic": "placement",
+    "question": "How can I prepare for campus placements?",
+    "answer": "Create a 12-week routine: aptitude, coding/core subjects, communication, resume and mocks. Track weekly weak topics. Keep one flagship project ready for discussion. Apply early, maintain a company-wise notes sheet, and revise frequently asked questions after every test."
+  },
+  {
+    "topic": "project",
+    "question": "What makes a strong AI project?",
+    "answer": "A strong project solves a real user problem, has clean data handling, a clear model choice, evaluation metrics, limitations and a working demo. Document architecture and results in README. One polished project beats many incomplete ones."
+  },
+  {
+    "topic": "project_ideas",
+    "question": "Can you suggest final year project ideas?",
+    "answer": "Choose projects with a real user and measurable outcome. Examples: campus chatbot for FAQs, resume screener, student attendance analytics, fake-news classifier, crop disease detection, personal finance tracker with ML insights, or placement prediction dashboard. Pick one idea, define dataset, MVP scope and evaluation before coding."
+  },
+  {
+    "topic": "confusion",
+    "question": "I am confused about my career. What should I do?",
+    "answer": "Do not force one perfect lifelong decision. Pick two realistic options, run a one-week experiment for each, compare interest and performance, then discuss evidence with a mentor. Reduce noise from peers/social media and decide based on skills you enjoy building."
+  },
+  {
+    "topic": "study_plan",
+    "question": "How do I make a good weekly study plan?",
+    "answer": "Block fixed slots for classes, deep study, practice, projects and rest. Put hardest subjects in high-energy hours. Review notes within 24 hours. Keep one weekly review to adjust the plan. Use active recall and practice tests instead of only re-reading."
+  },
+  {
+    "topic": "time_management",
+    "question": "How can students manage time better?",
+    "answer": "List top 3 daily priorities, protect two focused study blocks, batch small tasks and limit phone during deep work. Track one week of time use, then cut low-value habits. Use deadlines and short sprints (25-50 minutes) to stay consistent."
+  },
+  {
+    "topic": "higher_studies",
+    "question": "Should I go for higher studies or a job after graduation?",
+    "answer": "Choose by target role. If the career needs specialized research or advanced credentials, prepare for higher studies. If you need industry exposure and income first, take a job/internship and keep learning. Compare cost, readiness, interest and long-term ROI before deciding."
+  },
+  {
+    "topic": "coding_skills",
+    "question": "How do I improve coding skills as a student?",
+    "answer": "Practice daily problems, build weekly mini-projects, debug patiently and refactor old code. Master one language deeply before jumping frameworks. Learn data structures, Git and reading documentation. Consistency for 60-90 days beats random binge learning."
+  },
+  {
+    "topic": "dsa",
+    "question": "How should I start DSA for placements?",
+    "answer": "Start with arrays, strings, hashing, recursion, then linked lists, stacks, queues, trees and graphs. Solve easy->medium problems with a topic plan. Focus on patterns (two pointers, sliding window, binary search, BFS/DFS, DP basics). Revise solved problems weekly and explain solutions out loud."
+  },
+  {
+    "topic": "soft_skills",
+    "question": "What soft skills should students develop?",
+    "answer": "Focus on communication, teamwork, time management, presentation and problem-solving. Practice by explaining projects simply, writing clean emails, collaborating in groups and requesting feedback after every presentation."
+  },
+  {
+    "topic": "exam_prep",
+    "question": "How should I prepare for semester exams?",
+    "answer": "Map the syllabus early, use active recall and past papers, revise weak chapters first and run timed mock tests. Short daily revision cycles and sleep beat last-minute cramming. Convert notes into question banks."
+  },
+  {
+    "topic": "internship_search",
+    "question": "How do I find an internship?",
+    "answer": "Prepare resume + GitHub, then apply via placement cell, LinkedIn, Internshala, company career pages and alumni referrals. Customize each application, follow up politely, and keep building projects while applying. Aim for consistent weekly applications, not one big burst."
+  },
+  {
+    "topic": "linkedin",
+    "question": "How can I use LinkedIn for career growth?",
+    "answer": "Complete your profile with a clear headline, about section, projects and skills. Connect with alumni/recruiters using polite personalized notes. Share weekly learning updates and ask for specific help. Consistency beats spam posting."
+  },
+  {
+    "topic": "open_source",
+    "question": "How can beginners start open source contributions?",
+    "answer": "Start with good-first-issues, docs fixes and small bugs. Read CONTRIBUTING.md, make clean PRs and communicate politely. Choose beginner-friendly repos in your stack and note learnings after each contribution."
+  },
+  {
+    "topic": "scholarship",
+    "question": "How do I find scholarships for students?",
+    "answer": "Check college notices, government portals, department announcements and trusted education sites. Keep documents ready, track deadlines in a calendar and apply early with accurate details."
+  },
+  {
+    "topic": "group_project",
+    "question": "How should students handle group projects?",
+    "answer": "Define roles, deadlines and a shared task board early. Communicate weekly, use Git properly and document decisions. Raise blockers early with teammates or faculty instead of waiting until submission week."
+  },
+  {
+    "topic": "github",
+    "question": "How should I build a strong GitHub profile?",
+    "answer": "Keep 3-5 pinned projects with clear README, screenshots/demo, setup steps and tech stack. Commit regularly, use meaningful commit messages and remove empty repos. Add a profile README that states your focus and featured work."
+  },
+  {
+    "topic": "portfolio",
+    "question": "Do I need a portfolio website as a student?",
+    "answer": "A simple portfolio helps if you are targeting tech/design roles. Include about, skills, 2-3 projects with demos and contact links. Keep it fast and mobile-friendly. GitHub + LinkedIn can work initially if projects are well documented."
+  },
+  {
+    "topic": "communication",
+    "question": "How can I improve English communication for interviews?",
+    "answer": "Practice short daily speaking drills: introduce yourself, explain one project, answer one HR question. Record yourself, fix filler words and speak slowly. Read aloud and do mock interviews with friends. Clarity matters more than accent."
+  },
+  {
+    "topic": "motivation",
+    "question": "I feel demotivated in college. What should I do?",
+    "answer": "Shrink goals into tiny daily actions (30-60 minutes). Track progress weekly, reduce comparison on social media and reconnect with one interest project. Talk to a mentor/friend if stress stays high. Consistency rebuilds confidence faster than motivation alone."
+  },
+  {
+    "topic": "freelancing",
+    "question": "Can students start freelancing?",
+    "answer": "Yes, if you have one clear skill (web, content, data, design). Build 2 sample works, set a starter price, and find first clients via LinkedIn, college network or freelance platforms. Balance freelancing with academics and keep deadlines realistic."
+  },
+  {
+    "topic": "certifications",
+    "question": "Are online certifications useful for students?",
+    "answer": "Certificates help only when paired with projects. Prefer courses that end with a portfolio artifact. List relevant certificates briefly; put stronger weight on skills demonstrated through GitHub work and internships."
+  },
+  {
+    "topic": "first_year",
+    "question": "What should a first year engineering student focus on?",
+    "answer": "Build fundamentals: programming basics, math comfort, communication and curiosity. Explore clubs, finish small projects, learn Git and make a habit of weekly learning. Do not rush every advanced tool in year one."
+  },
+  {
+    "topic": "final_year",
+    "question": "What should final year students focus on for jobs?",
+    "answer": "Prioritize resume, one flagship project, interview prep and applications. Keep a weekly scoreboard for applications, mocks and weak topics. Use alumni referrals and placement cell aggressively. Avoid starting too many new unfinished projects."
+  },
+  {
+    "topic": "remote_internship",
+    "question": "How do I get a remote internship?",
+    "answer": "Show remote-ready proof: GitHub activity, clear written communication and a demo project. Apply on LinkedIn/Internshala/company pages with a concise message. Highlight timezone reliability, tools (Git, Slack, Notion) and past independent work."
+  },
+  {
+    "topic": "cover_letter",
+    "question": "How do I write a cover letter as a student?",
+    "answer": "Keep it short: who you are, why this role, 1-2 proof points (project/internship), and a polite close. Mirror key skills from the job post. Avoid copying generic templates. One focused paragraph beats a long essay."
+  },
+  {
+    "topic": "rejection",
+    "question": "I keep getting rejected. What should I do?",
+    "answer": "Treat rejection as feedback data. Improve resume clarity, strengthen one project demo, practice interviews and track where you fail (screening, test, interview). Apply more consistently while upgrading weak areas weekly. Ask mentors for concrete review."
+  },
+  {
+    "topic": "skills_2026",
+    "question": "Which skills should students learn now?",
+    "answer": "Core skills still win: programming, problem-solving, communication, Git and domain fundamentals. Add role-specific skills like Python/ML for AI, SQL for data, or web frameworks for software roles. Learn by building projects, not only watching tutorials."
+  },
+  {
+    "topic": "hackathon",
+    "question": "Should I participate in hackathons?",
+    "answer": "Yes for learning speed, teamwork and portfolio stories. Join with a clear role, ship a small working demo, and document what you built. Even without winning, hackathons create interview talking points and network contacts."
+  },
+  {
+    "topic": "research",
+    "question": "How can I start research as an undergraduate?",
+    "answer": "Read recent papers in one narrow topic, approach a professor with a short interest note, and offer to help with literature review or experiments. Learn LaTeX basics and keep weekly notes. Start small and be consistent for a semester."
+  }
+]
