@@ -76,14 +76,50 @@ AI_Counselling_Chatbot/
 └── README.md
 ```
 
-## How responses are built
+# 🤖 AI Counselling Chatbot
 
-1. Safety check for distress / crisis language
-2. Retrieve related answers from `data/knowledge.json`
-3. Gather short web research snippets
-4. If Gemini key is present, generate personalized guidelines
-5. Otherwise return structured local / web guidance
+An AI-powered counselling chatbot designed to provide personalized, interactive, and supportive guidance to users through natural language conversations.
 
-## Interview explanation
+### 🚀 Key Features
 
-"I built an AI counselling chatbot for college students. It combines TF-IDF knowledge retrieval, web research and optional Google Gemini generation so students get practical step-by-step guidelines. A safety layer escalates sensitive distress cases to human support."
+* 💬 Interactive AI-based counselling conversation
+* 🧠 Natural Language Processing for understanding user queries
+* 🎯 Personalized suggestions based on user needs and interests
+* 📚 Career, education, skill-development, and general guidance
+* 🔍 Intelligent question-answering and recommendation flow
+* 📝 Structured counselling responses and actionable suggestions
+* 🖥️ Simple and user-friendly chatbot interface
+* 🔐 Designed with responsible and privacy-conscious AI interaction
+
+### 🛠️ Technologies
+
+* Python
+* Artificial Intelligence / Generative AI
+* Natural Language Processing (NLP)
+* Prompt Engineering
+* Large Language Models (LLMs)
+* Streamlit / Web Interface
+* Git & GitHub
+
+### 🎯 Objective
+
+The main objective of this project is to demonstrate how Generative AI can be used to create an intelligent counselling assistant that understands user queries and provides relevant, personalized, and actionable guidance.
+
+### 💡 Use Cases
+
+* Career guidance
+* Educational guidance
+* Skill and learning recommendations
+* Course/technology suggestions
+* Personalized career exploration
+* AI-based first-level counselling assistance
+
+### 📌 Future Enhancements
+
+* User profile and conversation memory
+* Career assessment and recommendation engine
+* Resume analysis
+* Job-role recommendations
+* Voice-based counselling
+* Integration with career and course databases
+* Advanced analytics dashboard
