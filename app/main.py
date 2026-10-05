@@ -10,7 +10,7 @@ from app.safety import assess_message
 
 
 st.set_page_config(
-    page_title="Campus Counsellor",
+    page_title="AI Counselling Chatbot",
     page_icon="C",
     layout="wide",
     initial_sidebar_state="expanded",
